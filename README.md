@@ -1,3 +1,2 @@
-## Git Repo for 3DGS implementation
-- tried running camenduru's 3DGS code in colab
-- save it here
+## Branch for baseline 3DGS implementation
+- the starting point: get it running and keep it to compare your own results against
